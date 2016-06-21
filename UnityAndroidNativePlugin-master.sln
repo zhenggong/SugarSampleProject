@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{53B99E7F-7BC8-064B-EE11-CB2BEB4D7364}") = "UnityAndroidNativePlugin-master", "Assembly-CSharp.csproj", "{C0F31369-47C9-1B08-1F99-3D56E117CE4C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C0F31369-47C9-1B08-1F99-3D56E117CE4C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0F31369-47C9-1B08-1F99-3D56E117CE4C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0F31369-47C9-1B08-1F99-3D56E117CE4C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0F31369-47C9-1B08-1F99-3D56E117CE4C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
